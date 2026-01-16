@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment/OS
+.DS_Store
+Thumbs.db
+
+# Tooling
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# App data
+freq.json
+settings.json
