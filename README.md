@@ -32,8 +32,10 @@ python main.py
 ```
 
 ## Wordlists
-- Wordlists live in `wordlists/` as `.txt` files (one word per line).
-- Included wordlists: `en` uses the Linux words file; `sv` is sourced from https://runeberg.org/words/ss100.txt.
+
+Wordlists live in `wordlists/` as `.txt` files (one word per line). There are two lists included:
+- `en.txt` is the Linux words file (`/usr/share/dict/words` or `/usr/dict/words`)
+- `sv.txt` is sourced from https://runeberg.org/words/ss100.txt.
 
 ## Notes
 - The overlay appears in the lower-right corner and stays on top; you can drag it when transparent.
