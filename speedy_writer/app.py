@@ -32,13 +32,7 @@ BUILTIN_WORDS = [
     "var",
     "där",
     "här",
-    "rapport",
-    "projekt",
-    "kth",
-    "unity",
-    "hjärna",
-    "hörsel",
-    "spasm",
+    
     # English
     "the",
     "and",
@@ -57,11 +51,6 @@ BUILTIN_WORDS = [
     "when",
     "where",
     "here",
-    "report",
-    "project",
-    "brain",
-    "hearing",
-    "unity",
 ]
 
 

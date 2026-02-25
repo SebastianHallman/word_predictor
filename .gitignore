@@ -25,3 +25,8 @@ Thumbs.db
 # App data
 freq.json
 settings.json
+
+# build artifacts
+build/
+dist/
+
